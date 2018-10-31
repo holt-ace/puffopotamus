@@ -1,2 +1,2 @@
 # puffopotamus
-[link][https://google.com]
+[link](https://google.com)
