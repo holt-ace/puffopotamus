@@ -1,2 +1,2 @@
 # puffopotamus
-[link](/about)
+[link](/puffopotamus/about)
